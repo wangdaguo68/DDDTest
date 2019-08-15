@@ -1,0 +1,9 @@
+D:\test\King.DDDTest\King.Application\bin\Debug\netstandard2.0\King.Application.deps.json
+D:\test\King.DDDTest\King.Application\bin\Debug\netstandard2.0\King.Application.dll
+D:\test\King.DDDTest\King.Application\bin\Debug\netstandard2.0\King.Application.pdb
+D:\test\King.DDDTest\King.Application\obj\Debug\netstandard2.0\King.Application.csprojAssemblyReference.cache
+D:\test\King.DDDTest\King.Application\obj\Debug\netstandard2.0\King.Application.csproj.CoreCompileInputs.cache
+D:\test\King.DDDTest\King.Application\obj\Debug\netstandard2.0\King.Application.AssemblyInfoInputs.cache
+D:\test\King.DDDTest\King.Application\obj\Debug\netstandard2.0\King.Application.AssemblyInfo.cs
+D:\test\King.DDDTest\King.Application\obj\Debug\netstandard2.0\King.Application.dll
+D:\test\King.DDDTest\King.Application\obj\Debug\netstandard2.0\King.Application.pdb

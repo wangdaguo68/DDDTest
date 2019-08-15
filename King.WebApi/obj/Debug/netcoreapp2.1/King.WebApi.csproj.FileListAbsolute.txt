@@ -1,0 +1,14 @@
+D:\test\King.DDDTest\King.WebApi\bin\Debug\netcoreapp2.1\King.WebApi.deps.json
+D:\test\King.DDDTest\King.WebApi\bin\Debug\netcoreapp2.1\King.WebApi.runtimeconfig.json
+D:\test\King.DDDTest\King.WebApi\bin\Debug\netcoreapp2.1\King.WebApi.runtimeconfig.dev.json
+D:\test\King.DDDTest\King.WebApi\bin\Debug\netcoreapp2.1\King.WebApi.dll
+D:\test\King.DDDTest\King.WebApi\obj\Debug\netcoreapp2.1\King.WebApi.csproj.CoreCompileInputs.cache
+D:\test\King.DDDTest\King.WebApi\obj\Debug\netcoreapp2.1\King.WebApi.RazorAssemblyInfo.cache
+D:\test\King.DDDTest\King.WebApi\obj\Debug\netcoreapp2.1\King.WebApi.RazorAssemblyInfo.cs
+D:\test\King.DDDTest\King.WebApi\obj\Debug\netcoreapp2.1\King.WebApi.AssemblyInfoInputs.cache
+D:\test\King.DDDTest\King.WebApi\obj\Debug\netcoreapp2.1\King.WebApi.AssemblyInfo.cs
+D:\test\King.DDDTest\King.WebApi\obj\Debug\netcoreapp2.1\King.WebApi.RazorTargetAssemblyInfo.cache
+D:\test\King.DDDTest\King.WebApi\bin\Debug\netcoreapp2.1\King.WebApi.pdb
+D:\test\King.DDDTest\King.WebApi\obj\Debug\netcoreapp2.1\King.WebApi.csprojAssemblyReference.cache
+D:\test\King.DDDTest\King.WebApi\obj\Debug\netcoreapp2.1\King.WebApi.dll
+D:\test\King.DDDTest\King.WebApi\obj\Debug\netcoreapp2.1\King.WebApi.pdb
